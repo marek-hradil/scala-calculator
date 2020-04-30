@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [scalacalc / Compile / run] Found inputs: /home/marek/Documents/ScalaCalc/scalacalc/*.{java,scala},/home/marek/Documents/ScalaCalc/scalacalc/src/main/java/**/*.{java,scala},/home/marek/Documents/ScalaCalc/scalacalc/src/main/resources/**/*,/home/marek/Documents/ScalaCalc/scalacalc/src/main/scala/**/*.{java,scala},/home/marek/Documents/ScalaCalc/scalacalc/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for scalacalc/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
